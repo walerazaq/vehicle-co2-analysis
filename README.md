@@ -11,7 +11,7 @@ This project does not aim to resolve these debates. Instead, it focuses on ident
 - Highlight the importance of specific vehicle characteristics in mitigating emissions.
 
 ## Why Use a Jupyter Notebook for This Project?
-Jupyter Notebooks are ideal for this project because they allow for interactive data exploration, seamless integration of code and explanations, and clear visualisation of results.
+Jupyter Notebooks are ideal for this project because they allow for interactive data exploration, seamless integration of code and explanations, and clear visualisation of results. Additionally, this analysis was carried out using R.
 
 ## Key Findings
 Details on key insights and recommendations derived from the analysis are documented in the notebook and accompanying outputs. These findings aim to support efforts in reducing CO2 emissions through informed decision-making in vehicle design and policy.
